@@ -1,6 +1,6 @@
 # Sample Admin Template using Bulma CSS Framework
 
-## 😃 Click here for the 👉 [💥LIVE DEMO]()
+## 😃 Click here for the 👉 [💥LIVE DEMO](https://frontendfunn.github.io/bulma-css-sample-admin-template/)
 
 ---
 
